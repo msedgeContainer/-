@@ -78,7 +78,7 @@ GuiTab:AddButton({
 })
 
 LimitedTab:AddButton({
-	Name = "Become Bob (bugged)",
+	Name = "Become Bob",
 	Callback = function()
     bobMorph()
 end
